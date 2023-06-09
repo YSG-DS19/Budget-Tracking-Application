@@ -11,3 +11,13 @@ This Budget Tracking Web Application that displays the users balance, income, an
 ▪️ Set Income and Balance : User can set Income and Balance.
 
 ▪️ Amount Type : User can select amount type either Expense or Income.
+
+# Technology Stack 
+▪️ Frontend : HTML,CSS & Bootstrap
+
+▪️ Backend : Django (Python framework)
+
+▪️ Database : Django's default database SQLite.
+
+# Installation 
+1) 
